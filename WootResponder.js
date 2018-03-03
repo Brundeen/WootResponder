@@ -11,6 +11,8 @@ var bot = {
 	    case 'dance':
 	    case 'DANCE':					
 	    case '!bop':
+            case '!woot':
+            case '!dance':
 	      $('#woot').click();
 									
               }
